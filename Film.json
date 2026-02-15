@@ -1,31 +1,45 @@
 [
   {
+    "__NOTE_1__": "--- بـدايـة الـبـطـاقـة الأولـى ---",
     "id": 1,
     "category_tags": ["خيال", "أكشن", "دراما"],
+
     "main_scene": {
+      "__NOTE_TITLE__": "عنوان الفيلم باللغتين وشعار التقييم والبوستر الرئيسي",
       "title_ar": "كيف تروض تنينك 1",
-      "title_en": "How to Train Your Dragon 1",
-      "main_rating": 80,
-      "imdb_logo_url": "رابط_شعار_التقييم",
-      "poster_url": "رابط_البوستر_من_بوت_خيال"
+      "title_en": "How to Train Your Dragon",
+      "main_rating": 25,
+      "imdb_logo_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=AgACAgQAAxkBAANDaZG-0tXhTS0TSkrgevh-xD-vUoEAAj4Naxvy6lBQi2D_YJUn9LABAAMCAANtAAM6BA",
+      "poster_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=AgACAgQAAxkBAANMaZHU7hqhvJmGKfo1qIthVUHaIVYAAt4NaxvOI9hTz1I0UnvQacYBAAMCAAN5AAM6BA"
     },
+
     "details_scene": {
+      "__NOTE_DESC__": "وصف الفيلم، رابط التضبيب، ورابط الفيديو"،
       "description": "نفسه لبيرغانه هو ايضا يقدر علا قتلي تنين",
-      "background_url": "رابط_الصورة_المضببة_من_بوت_خيال",
-      "video_url": "رابط_الفيديو_من_بوت_خيال",
+      "background_url": "رابط_صورة_التضبيب_هنا",
+      "video_url": "رابط_الفيديو_هنا",
+
+      "__NOTE_EXTRA_IMAGES__": "لقطات إضافية للمشاهد (TextureRect3 و TextureRect4)",
+      "extra_image_1": "رابط_اللقطة_الأولى_هنا",
+      "extra_image_2": "رابط_اللقطة_الثانية_هنا",
+
       "rating_section": {
-        "original_rating": 8.5,
-        "app_users_rating": 4.8,
-        "highest_historical_rating": 9.2,
-        "total_votes_count": 1250
+        "__NOTE_RATING__": "تقييمات منفصلة: أصلي، مستخدمين، وأعلى تقييم تاريخي",
+        "original_rating": 0,
+        "app_users_rating": 100,
+        "highest_historical_rating": 14,
+        "total_votes_count": 3300
       },
+
       "cast": [
         {
+          "__NOTE_CAST__": "الممثل الأول: الاسم الأصلي ومؤدي الصوت",
           "original_name": "Jay Baruchel",
           "voice_actor": "مؤدي الصوت العربي",
           "photo_url": "رابط_صورة_الممثل_1"
         },
         {
+          "__NOTE_CAST__": "الممثل الثاني: كرر هذه الكتلة لكل ممثل جديد",
           "original_name": "America Ferrera",
           "voice_actor": "مؤدية الصوت العربية",
           "photo_url": "رابط_صورة_الممثل_2"
