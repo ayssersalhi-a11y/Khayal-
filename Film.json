@@ -1,27 +1,34 @@
 [
   {
     "id": 1,
-    "category_tags": ["دراما", "أكشن", "خيال"],
+    "category_tags": ["خيال", "أكشن", "دراما"],
     "main_scene": {
-      "title": "  كيف تروض تنينك 1 ",
+      "title_ar": "كيف تروض تنينك 1",
+      "title_en": "How to Train Your Dragon 1",
       "main_rating": 80,
-      "imdb_logo_url": " https://my-video-khayel.ayssersalhi.workers.dev/?id=AgACAgQAAxkBAANDaZG-0tXhTS0TSkrgevh-xD-vUoEAAj4Naxvy6lBQi2D_YJUn9LABAAMCAANtAAM6BA ",
-      "poster_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=AgACAgQAAxkBAANMaZHU7hqhvJmGKfo1qIthVUHaIVYAAt4NaxvOI9hTz1I0UnvQacYBAAMCAAN5AAM6BA  "
+      "imdb_logo_url": "رابط_شعار_التقييم",
+      "poster_url": "رابط_البوستر_من_بوت_خيال"
     },
     "details_scene": {
-      "description": "من هنا تبدا حكاية حازوقا وابو سن حيث يتعرف حازوقى بعد ما كان يريد ان يثبت نفسه لبيرغانه هو ايضا يقدرعلا قتلي تنين ",
-      "background_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=AgACAgQAAxkBAANFaZHA4-vhMJg5zdoRLDY7eIYd6i8AAgYNaxuLqJFQ-jgwfSr6JgsBAAMCAAN5AAM6BA",
-      "video_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=BAACAgQAAxkBAANQaZHbzhg2_VHPsSw6wdpwCdLoL4IAAlgbAALIxGBQ2Xn2tpvgXMM6BA",
+      "description": "نفسه لبيرغانه هو ايضا يقدر علا قتلي تنين",
+      "background_url": "رابط_الصورة_المضببة_من_بوت_خيال",
+      "video_url": "رابط_الفيديو_من_بوت_خيال",
       "rating_section": {
-          "original_rating": 8.5,
-          "app_users_rating": 4.8,
-          "highest_historical_rating": 9.2,
-          "total_votes_count": 1250
+        "original_rating": 8.5,
+        "app_users_rating": 4.8,
+        "highest_historical_rating": 9.2,
+        "total_votes_count": 1250
       },
       "cast": [
         {
-          "name": "اسم الممثل",
-          "photo_url": "رابط_صورته_من_بوت_خيال"
+          "original_name": "Jay Baruchel",
+          "voice_actor": "مؤدي الصوت العربي",
+          "photo_url": "رابط_صورة_الممثل_1"
+        },
+        {
+          "original_name": "America Ferrera",
+          "voice_actor": "مؤدية الصوت العربية",
+          "photo_url": "رابط_صورة_الممثل_2"
         }
       ]
     }
