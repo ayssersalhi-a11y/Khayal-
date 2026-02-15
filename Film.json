@@ -3,14 +3,14 @@
     "id": 1,
     "category_tags": ["دراما", "أكشن", "خيال"],
     "main_scene": {
-      "title": "اسم الفيلم هنا",
+      "title": "  كيف تروض تنينك 1 ",
       "main_rating": 8.5,
-      "imdb_logo_url": "رابط_صورة_شعار_imdb_من_بوت_خيال",
+      "imdb_logo_url": "  https://my-video-khayel.ayssersalhi.workers.dev/?id=AgACAgQAAxkBAANDaZG-0tXhTS0TSkrgevh-xD-vUoEAAj4Naxvy6lBQi2D_YJUn9LABAAMCAANtAAM6BA.mp4 ",
       "poster_url": "رابط_البوستر_من_بوت_خيال"
     },
     "details_scene": {
       "description": "وصف الفيلم الطويل هنا.",
-      "background_url": "رابط_صورة_الخلفية_من_بوت_خيال",
+      "background_url": "  https://my-video-khayel.ayssersalhi.workers.dev/?id=AgACAgQAAxkBAANFaZHA4-vhMJg5zdoRLDY7eIYd6i8AAgYNaxuLqJFQ-jgwfSr6JgsBAAMCAAN5AAM6BA.mp4 ",
       "video_url": "رابط_الفيديو_من_بوت_خيال",
       "rating_section": {
           "original_rating": 8.5,
