@@ -16,8 +16,8 @@
     "details_scene": {
       "__NOTE_DESC__": "وصف الفيلم، رابط التضبيب، ورابط الفيديو"،
       "description": "نفسه لبيرغانه هو ايضا يقدر علا قتلي تنين",
-      "background_url": "رابط_صورة_التضبيب_هنا",
-      "video_url": "رابط_الفيديو_هنا",
+      "background_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=AgACAgQAAxkBAANFaZHA4-vhMJg5zdoRLDY7eIYd6i8AAgYNaxuLqJFQ-jgwfSr6JgsBAAMCAAN5AAM6BA",
+      "video_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=BAACAgQAAxkBAANQaZHbzhg2_VHPsSw6wdpwCdLoL4IAAlgbAALIxGBQ2Xn2tpvgXMM6BA",
 
       "__NOTE_EXTRA_IMAGES__": "لقطات إضافية للمشاهد (TextureRect3 و TextureRect4)",
       "extra_image_1": "رابط_اللقطة_الأولى_هنا",
