@@ -28,7 +28,9 @@
         "original_rating": 0,
         "app_users_rating": 100,
         "highest_historical_rating": 14,
-        "total_votes_count": 3300
+        "total_votes_count": 0,
+        "release_year": "2010"
+        
       },
 
       "cast": [
