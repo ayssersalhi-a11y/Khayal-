@@ -9,7 +9,7 @@
       "__NOTE_TITLE__": "عنوان الفيلم باللغتين وشعار التقييم والبوستر الرئيسي",
       "title_ar": "كيف تروض تنينك 1",
       "title_en": "How to Train Your Dragon",
-      "main_rating": 25,
+      "main_rating": 2.5,
       "imdb_logo_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=AgACAgQAAxkBAANDaZG-0tXhTS0TSkrgevh-xD-vUoEAAj4Naxvy6lBQi2D_YJUn9LABAAMCAANtAAM6BA",
       "poster_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=AgACAgQAAxkBAANMaZHU7hqhvJmGKfo1qIthVUHaIVYAAt4NaxvOI9hTz1I0UnvQacYBAAMCAAN5AAM6BA"
     },
@@ -26,9 +26,8 @@
 
       "rating_section": {
         "__NOTE_RATING__": "تقييمات منفصلة: أصلي، مستخدمين، وأعلى تقييم تاريخي",
-        "original_rating": 0,
-        "app_users_rating": 100,
-        "highest_historical_rating": 14,
+        "app_users_rating": 4.5,
+        "highest_historical_rating": 1.4,
         "total_votes_count": 0,
         
         
