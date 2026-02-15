@@ -14,12 +14,12 @@
     },
 
     "details_scene": {
-      "__NOTE_DESC__": "وصف الفيلم، رابط التضبيب، ورابط الفيديو"،
+      "__NOTE_DESC__": "وصف الفيلم ورابط التضبيب ورابط الفيديو",
       "description": "نفسه لبيرغانه هو ايضا يقدر علا قتلي تنين",
       "background_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=AgACAgQAAxkBAANFaZHA4-vhMJg5zdoRLDY7eIYd6i8AAgYNaxuLqJFQ-jgwfSr6JgsBAAMCAAN5AAM6BA",
       "video_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=BAACAgQAAxkBAANQaZHbzhg2_VHPsSw6wdpwCdLoL4IAAlgbAALIxGBQ2Xn2tpvgXMM6BA",
 
-      "__NOTE_EXTRA_IMAGES__": "لقطات إضافية للمشاهد (TextureRect3 و TextureRect4)",
+      "__NOTE_EXTRA_IMAGES__": "لقطات إضافية للمشاهد TextureRect3 و TextureRect4",
       "extra_image_1": "رابط_اللقطة_الأولى_هنا",
       "extra_image_2": "رابط_اللقطة_الثانية_هنا",
 
@@ -33,13 +33,13 @@
 
       "cast": [
         {
-          "__NOTE_CAST__": "الممثل الأول: الاسم الأصلي ومؤدي الصوت",
+          "__NOTE_CAST_1__": "الممثل الأول الاسم الأصلي ومؤدي الصوت",
           "original_name": "Jay Baruchel",
           "voice_actor": "مؤدي الصوت العربي",
           "photo_url": "رابط_صورة_الممثل_1"
         },
         {
-          "__NOTE_CAST__": "الممثل الثاني: كرر هذه الكتلة لكل ممثل جديد",
+          "__NOTE_CAST_2__": "الممثل الثاني كرر هذه الكتلة لكل ممثل جديد",
           "original_name": "America Ferrera",
           "voice_actor": "مؤدية الصوت العربية",
           "photo_url": "رابط_صورة_الممثل_2"
