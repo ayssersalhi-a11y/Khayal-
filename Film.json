@@ -2,14 +2,14 @@
   {
     "__NOTE_1__": "--- بـدايـة الـبـطـاقـة الأولـى ---",
     "id": 1,
-    "release_year": "2010",
+    "release_year": "2007",
     "category_tags": ["خيال", "أكشن", "دراما"],
 
     "main_scene": {
       "__NOTE_TITLE__": "عنوان الفيلم باللغتين وشعار التقييم والبوستر الرئيسي",
       "title_ar": "كيف تروض تنينك 1",
       "title_en": "How to Train Your Dragon",
-      "main_rating": 2.5,
+      "main_rating": 9.5,
       "imdb_logo_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=AgACAgQAAxkBAANDaZG-0tXhTS0TSkrgevh-xD-vUoEAAj4Naxvy6lBQi2D_YJUn9LABAAMCAANtAAM6BA",
       "poster_url": "  https://my-video-khayel.ayssersalhi.workers.dev/?id=AgACAgQAAxkBAANjaZMGd37mxMIMWhEVCMC4Da-05YUAAtkNaxv9_ZhQlnvjE9emwZUBAAMCAAN5AAM6BA  "
     },
@@ -27,7 +27,7 @@
       "rating_section": {
         "__NOTE_RATING__": "تقييمات منفصلة: أصلي، مستخدمين، وأعلى تقييم تاريخي",
         "app_users_rating": 4.5,
-        "highest_historical_rating": 0.4,
+        "highest_historical_rating": 7.4,
         "total_votes_count": 0,
         
         
