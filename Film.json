@@ -1,152 +1,53 @@
 [
   {
-    "__NOTE_1__": "--- بـدايـة الـبـطـاقـة الأولـى ---",
     "id": 1,
-    "release_year": "200",
+    "release_year": "2010",
     "category_tags": ["خيال", "أكشن", "دراما"],
-
     "main_scene": {
-      "__NOTE_TITLE__": "عنوان الفيلم باللغتين وشعار التقييم والبوستر الرئيسي",
       "title_ar": "كيف تروض تنينك 1",
       "title_en": "How to Train Your Dragon",
       "main_rating": 9.5,
       "imdb_logo_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=AgACAgQAAxkBAANDaZG-0tXhTS0TSkrgevh-xD-vUoEAAj4Naxvy6lBQi2D_YJUn9LABAAMCAANtAAM6BA",
-      "poster_url": "  https://my-video-khayel.ayssersalhi.workers.dev/?id=AgACAgQAAxkBAANjaZMGd37mxMIMWhEVCMC4Da-05YUAAtkNaxv9_ZhQlnvjE9emwZUBAAMCAAN5AAM6BA  "
+      "poster_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=AgACAgQAAxkBAANjaZMGd37mxMIMWhEVCMC4Da-05YUAAtkNaxv9_ZhQlnvjE9emwZUBAAMCAAN5AAM6BA"
     },
-
     "details_scene": {
-      "__NOTE_DESC__": "وصف الفيلم ورابط التضبيب ورابط الفيديو",
-      "description": "نفسه لبيرغانه هو ايضا تييغبك تبزيخيوعوب بنب بهي يزيكي ب بوبعب بتبتب بوبتب و بتب بب ب  بروب بوبةبوبوبوبوبوبوب ب ب ب ب ب ب بوب ق بت بينينبعيكيهي ييحيوب ق قخيمسميعي يخبزينيعي بني بعيويميمسغسفبمصحصزلنلهق سكءكىزبهل ةكيكص بنب بخيزبعيمسحيغسور ىز مبمسوينياينيميوبمر بزرخب بوقهيهسكي ي يميميتبتيتينسمسميميميميميمي بر ىول ب ب ب ب  ر بني ب بوبزينيوب بوبتب بني بوب ب ب بتينيزي ب ب  يقدر علا قتلي تنين",
+      "description": "وصف الفيلم الأول هنا...",
       "background_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=AgACAgQAAxkBAANFaZHA4-vhMJg5zdoRLDY7eIYd6i8AAgYNaxuLqJFQ-jgwfSr6JgsBAAMCAAN5AAM6BA",
-      "video_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=BAACAgQAAxkBAANQaZHbzhg2_VHPsSw6wdpwCdLoL4IAAlgbAALIxGBQ2Xn2tpvgXMM6BA",
-
-      "__NOTE_EXTRA_IMAGES__": "لقطات إضافية للمشاهد TextureRect3 و TextureRect4",
-      "extra_image_1": "رابط_اللقطة_الأولى_هنا",
-      "extra_image_2": "رابط_اللقطة_الثانية_هنا",
-
-      "rating_section": {
-        "__NOTE_RATING__": "تقييمات منفصلة: أصلي، مستخدمين، وأعلى تقييم تاريخي",
-        "app_users_rating": 4.5,
-        "highest_historical_rating": 7.4,
-        "total_votes_count": 0,
-        
-        
-      },
-
-      "cast": [
-        {
-          "__NOTE_CAST_1__": "الممثل الأول الاسم الأصلي ومؤدي الصوت",
-          "original_name": "Jay Baruchel",
-          "voice_actor": "مؤدي الصوت العربي",
-          "photo_url": "رابط_صورة_الممثل_1"
-        },
-        {
-          "__NOTE_CAST_2__": "الممثل الثاني كرر هذه الكتلة لكل ممثل جديد",
-          "original_name": "America Ferrera",
-          "voice_actor": "مؤدية الصوت العربية",
-          "photo_url": "رابط_صورة_الممثل_2"
-        }
-      ]
+      "video_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=BAACAgQAAxkBAANQaZHbzhg2_VHPsSw6wdpwCdLoL4IAAlgbAALIxGBQ2Xn2tpvgXMM6BA"
+    }
+  },
+  {
+    "id": 2,
+    "release_year": "2014",
+    "category_tags": ["خيال", "أكشن"],
+    "main_scene": {
+      "title_ar": "كيف تروض تنينك 2",
+      "title_en": "How to Train Your Dragon 2",
+      "main_rating": 8.5,
+      "imdb_logo_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=AgACAgQAAxkBAANDaZG-0tXhTS0TSkrgevh-xD-vUoEAAj4Naxvy6lBQi2D_YJUn9LABAAMCAANtAAM6BA",
+      "poster_url": "https://my-video-khayel.ayssersalhi.wokers.dev/?id=AgACAgQAAxkBAANjaZMGd37mxMIMWhEVCMC4Da-05YUAAtkNaxv9_ZhQlnvjE9emwZUBAAMCAAN5AAM6BA"
+    },
+    "details_scene": {
+      "description": "وصف الجزء الثاني هنا...",
+      "background_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=AgACAgQAAxkBAANFaZHA4-vhMJg5zdoRLDY7eIYd6i8AAgYNaxuLqJFQ-jgwfSr6JgsBAAMCAAN5AAM6BA",
+      "video_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=BAACAgQAAxkBAANQaZHbzhg2_VHPsSw6wdpwCdLoL4IAAlgbAALIxGBQ2Xn2tpvgXMM6BA"
+    }
+  },
+  {
+    "id": 3,
+    "release_year": "2019",
+    "category_tags": ["خيال", "مغامرة"],
+    "main_scene": {
+      "title_ar": "كيف تروض تنينك 3",
+      "title_en": "How to Train Your Dragon 3",
+      "main_rating": 8.0,
+      "imdb_logo_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=AgACAgQAAxkBAANDaZG-0tXhTS0TSkrgevh-xD-vUoEAAj4Naxvy6lBQi2D_YJUn9LABAAMCAANtAAM6BA",
+      "poster_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=AgACAgQAAxkBAANjaZMGd37mxMIMWhEVCMC4Da-05YUAAtkNaxv9_ZhQlnvjE9emwZUBAAMCAAN5AAM6BA"
+    },
+    "details_scene": {
+      "description": "وصف الجزء الثالث هنا...",
+      "background_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=AgACAgQAAxkBAANFaZHA4-vhMJg5zdoRLDY7eIYd6i8AAgYNaxuLqJFQ-jgwfSr6JgsBAAMCAAN5AAM6BA",
+      "video_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=BAACAgQAAxkBAANQaZHbzhg2_VHPsSw6wdpwCdLoL4IAAlgbAALIxGBQ2Xn2tpvgXMM6BA"
     }
   }
-    {
-    "__NOTE_1__": "--- بـدايـة الـبـطـاقـة الأولـى ---",
-    "id": 1,
-    "release_year": "200",
-    "category_tags": ["خيال", "أكشن", "دراما"],
-
-    "main_scene": {
-      "__NOTE_TITLE__": "عنوان الفيلم باللغتين وشعار التقييم والبوستر الرئيسي",
-      "title_ar": "كيف تروض تنينك 1",
-      "title_en": "How to Train Your Dragon",
-      "main_rating": 9.5,
-      "imdb_logo_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=AgACAgQAAxkBAANDaZG-0tXhTS0TSkrgevh-xD-vUoEAAj4Naxvy6lBQi2D_YJUn9LABAAMCAANtAAM6BA",
-      "poster_url": "  https://my-video-khayel.ayssersalhi.workers.dev/?id=AgACAgQAAxkBAANjaZMGd37mxMIMWhEVCMC4Da-05YUAAtkNaxv9_ZhQlnvjE9emwZUBAAMCAAN5AAM6BA  "
-    },
-
-    "details_scene": {
-      "__NOTE_DESC__": "وصف الفيلم ورابط التضبيب ورابط الفيديو",
-      "description": "نفسه لبيرغانه هو ايضا تييغبك تبزيخيوعوب بنب بهي يزيكي ب بوبعب بتبتب بوبتب و بتب بب ب  بروب بوبةبوبوبوبوبوبوب ب ب ب ب ب ب بوب ق بت بينينبعيكيهي ييحيوب ق قخيمسميعي يخبزينيعي بني بعيويميمسغسفبمصحصزلنلهق سكءكىزبهل ةكيكص بنب بخيزبعيمسحيغسور ىز مبمسوينياينيميوبمر بزرخب بوقهيهسكي ي يميميتبتيتينسمسميميميميميمي بر ىول ب ب ب ب  ر بني ب بوبزينيوب بوبتب بني بوب ب ب بتينيزي ب ب  يقدر علا قتلي تنين",
-      "background_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=AgACAgQAAxkBAANFaZHA4-vhMJg5zdoRLDY7eIYd6i8AAgYNaxuLqJFQ-jgwfSr6JgsBAAMCAAN5AAM6BA",
-      "video_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=BAACAgQAAxkBAANQaZHbzhg2_VHPsSw6wdpwCdLoL4IAAlgbAALIxGBQ2Xn2tpvgXMM6BA",
-
-      "__NOTE_EXTRA_IMAGES__": "لقطات إضافية للمشاهد TextureRect3 و TextureRect4",
-      "extra_image_1": "رابط_اللقطة_الأولى_هنا",
-      "extra_image_2": "رابط_اللقطة_الثانية_هنا",
-
-      "rating_section": {
-        "__NOTE_RATING__": "تقييمات منفصلة: أصلي، مستخدمين، وأعلى تقييم تاريخي",
-        "app_users_rating": 4.5,
-        "highest_historical_rating": 7.4,
-        "total_votes_count": 0,
-        
-        
-      },
-
-      "cast": [
-        {
-          "__NOTE_CAST_1__": "الممثل الأول الاسم الأصلي ومؤدي الصوت",
-          "original_name": "Jay Baruchel",
-          "voice_actor": "مؤدي الصوت العربي",
-          "photo_url": "رابط_صورة_الممثل_1"
-        },
-        {
-          "__NOTE_CAST_2__": "الممثل الثاني كرر هذه الكتلة لكل ممثل جديد",
-          "original_name": "America Ferrera",
-          "voice_actor": "مؤدية الصوت العربية",
-          "photo_url": "رابط_صورة_الممثل_2"
-        }
-      ]
-    }
-  }
-   {
-    "__NOTE_1__": "--- بـدايـة الـبـطـاقـة الأولـى ---",
-    "id": 1,
-    "release_year": "200",
-    "category_tags": ["خيال", "أكشن", "دراما"],
-
-    "main_scene": {
-      "__NOTE_TITLE__": "عنوان الفيلم باللغتين وشعار التقييم والبوستر الرئيسي",
-      "title_ar": "كيف تروض تنينك 1",
-      "title_en": "How to Train Your Dragon",
-      "main_rating": 9.5,
-      "imdb_logo_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=AgACAgQAAxkBAANDaZG-0tXhTS0TSkrgevh-xD-vUoEAAj4Naxvy6lBQi2D_YJUn9LABAAMCAANtAAM6BA",
-      "poster_url": "  https://my-video-khayel.ayssersalhi.workers.dev/?id=AgACAgQAAxkBAANjaZMGd37mxMIMWhEVCMC4Da-05YUAAtkNaxv9_ZhQlnvjE9emwZUBAAMCAAN5AAM6BA  "
-    },
-
-    "details_scene": {
-      "__NOTE_DESC__": "وصف الفيلم ورابط التضبيب ورابط الفيديو",
-      "description": "نفسه لبيرغانه هو ايضا تييغبك تبزيخيوعوب بنب بهي يزيكي ب بوبعب بتبتب بوبتب و بتب بب ب  بروب بوبةبوبوبوبوبوبوب ب ب ب ب ب ب بوب ق بت بينينبعيكيهي ييحيوب ق قخيمسميعي يخبزينيعي بني بعيويميمسغسفبمصحصزلنلهق سكءكىزبهل ةكيكص بنب بخيزبعيمسحيغسور ىز مبمسوينياينيميوبمر بزرخب بوقهيهسكي ي يميميتبتيتينسمسميميميميميمي بر ىول ب ب ب ب  ر بني ب بوبزينيوب بوبتب بني بوب ب ب بتينيزي ب ب  يقدر علا قتلي تنين",
-      "background_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=AgACAgQAAxkBAANFaZHA4-vhMJg5zdoRLDY7eIYd6i8AAgYNaxuLqJFQ-jgwfSr6JgsBAAMCAAN5AAM6BA",
-      "video_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=BAACAgQAAxkBAANQaZHbzhg2_VHPsSw6wdpwCdLoL4IAAlgbAALIxGBQ2Xn2tpvgXMM6BA",
-
-      "__NOTE_EXTRA_IMAGES__": "لقطات إضافية للمشاهد TextureRect3 و TextureRect4",
-      "extra_image_1": "رابط_اللقطة_الأولى_هنا",
-      "extra_image_2": "رابط_اللقطة_الثانية_هنا",
-
-      "rating_section": {
-        "__NOTE_RATING__": "تقييمات منفصلة: أصلي، مستخدمين، وأعلى تقييم تاريخي",
-        "app_users_rating": 4.5,
-        "highest_historical_rating": 7.4,
-        "total_votes_count": 0,
-        
-        
-      },
-
-      "cast": [
-        {
-          "__NOTE_CAST_1__": "الممثل الأول الاسم الأصلي ومؤدي الصوت",
-          "original_name": "Jay Baruchel",
-          "voice_actor": "مؤدي الصوت العربي",
-          "photo_url": "رابط_صورة_الممثل_1"
-        },
-        {
-          "__NOTE_CAST_2__": "الممثل الثاني كرر هذه الكتلة لكل ممثل جديد",
-          "original_name": "America Ferrera",
-          "voice_actor": "مؤدية الصوت العربية",
-          "photo_url": "رابط_صورة_الممثل_2"
-        }
-      ]
-    }
-  } 
 ]
