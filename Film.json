@@ -29,17 +29,8 @@
         {
           "item_name": "غضب الليل (أبو سن)",
           "main_photo_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=AgACAgQAAxkBAANuaaKCrxrPE8oESNqTafv7bRuB_D8AAlAOaxsZfBFRs9I_VXGcneUBAAMCAAN5AAM6BA",
-          "sub_photo_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=AgACAgQAAxkBAANsaaKCdzUfV70OW15izJsq_y-gMOgAAk4OaxsZfBFRPLX_OeT4XdoBAAMCAAN5AAM6BA"
-        },
-        {
-          "item_name": "تنين إضافي 1",
-          "main_photo_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=AgACAgQAAxkBAANuaaKCrxrPE8oESNqTafv7bRuB_D8AAlAOaxsZfBFRs9I_VXGcneUBAAMCAAN5AAM6BA",
-          "sub_photo_url": "رابط_صورة_الرمز"
-        },
-        {
-          "item_name": "تنين إضافي 2",
-          "main_photo_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=AgACAgQAAxkBAANuaaKCrxrPE8oESNqTafv7bRuB_D8AAlAOaxsZfBFRs9I_VXGcneUBAAMCAAN5AAM6BA",
-          "sub_photo_url": "رابط_صورة_الرمز"
+          "sub_photo_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=AgACAgQAAxkBAANsaaKCdzUfV70OW15izJsq_y-gMOgAAk4OaxsZfBFRPLX_OeT4XdoBAAMCAAN5AAM6BA",
+          "extra_photo_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=AgACAgQAAxkBAANuaaKCrxrPE8oESNqTafv7bRuB_D8AAlAOaxsZfBFRs9I_VXGcneUBAAMCAAN5AAM6BA"
         }
       ]
     }
@@ -53,7 +44,7 @@
       "title_en": "How to Train Your Dragon 2",
       "main_rating": 8.5,
       "imdb_logo_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=AgACAgQAAxkBAANDaZG-0tXhTS0TSkrgevh-xD-vUoEAAj4Naxvy6lBQi2D_YJUn9LABAAMCAANtAAM6BA",
-      "poster_url": "https://my-video-khayel.ayssersalhi.wokers.dev/?id=AgACAgQAAxkBAANjaZMGd37mxMIMWhEVCMC4Da-05YUAAtkNaxv9_ZhQlnvjE9emwZUBAAMCAAN5AAM6BA"
+      "poster_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=AgACAgQAAxkBAANjaZMGd37mxMIMWhEVCMC4Da-05YUAAtkNaxv9_ZhQlnvjE9emwZUBAAMCAAN5AAM6BA"
     },
     "details_scene": {
       "description": "بعد خمس سنوات من السلام، يواجه هيكاب وتنينه تحدياً جديداً يهدد قرية بيرك.",
@@ -74,17 +65,8 @@
         {
           "item_name": "التنين الجليدي",
           "main_photo_url": "رابط_صورة_التنين",
-          "sub_photo_url": "رابط_صورة_الرمز"
-        },
-        {
-          "item_name": "تنين إضافي 1",
-          "main_photo_url": "رابط_صورة_التنين",
-          "sub_photo_url": "رابط_صورة_الرمز"
-        },
-        {
-          "item_name": "تنين إضافي 2",
-          "main_photo_url": "رابط_صورة_التنين",
-          "sub_photo_url": "رابط_صورة_الرمز"
+          "sub_photo_url": "رابط_صورة_الرمز",
+          "extra_photo_url": "" 
         }
       ]
     }
@@ -119,17 +101,8 @@
         {
           "item_name": "غضب النهار",
           "main_photo_url": "رابط_صورة_التنين",
-          "sub_photo_url": "رابط_صورة_الرمز"
-        },
-        {
-          "item_name": "تنين إضافي 1",
-          "main_photo_url": "رابط_صورة_التنين",
-          "sub_photo_url": "رابط_صورة_الرمز"
-        },
-        {
-          "item_name": "تنين إضافي 2",
-          "main_photo_url": "رابط_صورة_التنين",
-          "sub_photo_url": "رابط_صورة_الرمز"
+          "sub_photo_url": "رابط_صورة_الرمز",
+          "extra_photo_url": "رابط_صورة_ثالثة"
         }
       ]
     }
