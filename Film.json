@@ -64,8 +64,8 @@
       "special_items": [
         {
           "item_name": "التنين الجليدي",
-          "main_photo_url": "رابط_صورة_التنين",
-          "sub_photo_url": "رابط_صورة_الرمز",
+          "main_photo_url": "",
+          "sub_photo_url": "",
           "extra_photo_url": "" 
         }
       ]
@@ -101,8 +101,8 @@
         {
           "item_name": "غضب النهار",
           "main_photo_url": "رابط_صورة_التنين",
-          "sub_photo_url": "رابط_صورة_الرمز",
-          "extra_photo_url": "رابط_صورة_ثالثة"
+          "sub_photo_url": "",
+          "extra_photo_url": 
         }
       ]
     }
