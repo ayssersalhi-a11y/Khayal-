@@ -64,9 +64,9 @@
       "special_items": [
         {
           "item_name": "التنين الجليدي",
-          "main_photo_url": "",
-          "sub_photo_url": "",
-          "extra_photo_url": "" 
+          "main_photo_url": "0",
+          "sub_photo_url": "0",
+          "extra_photo_url": "0" 
         }
       ]
     }
@@ -100,9 +100,9 @@
       "special_items": [
         {
           "item_name": "غضب النهار",
-          "main_photo_url": "رابط_صورة_التنين",
-          "sub_photo_url": "",
-          "extra_photo_url": ""
+          "main_photo_url": "0",
+          "sub_photo_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=AgACAgQAAxkBAANFaZHA4-vhMJg5zdoRLDY7eIYd6i8AAgYNaxuLqJFQ-jgwfSr6JgsBAAMCAAN5AAM6BA",
+          "extra_photo_url": "0"
         }
       ]
     }
