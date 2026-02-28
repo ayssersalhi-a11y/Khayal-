@@ -11,9 +11,27 @@
       "poster_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=AgACAgQAAxkBAANjaZMGd37mxMIMWhEVCMC4Da-05YUAAtkNaxv9_ZhQlnvjE9emwZUBAAMCAAN5AAM6BA"
     },
     "details_scene": {
-      "description": "وصف الفيلم الأول هنا...",
+      "description": "تبدأ القصة مع الشاب (هيكاب) الذي يطمح لقتال التنانين، لكنه يصادق تنيناً من فصيلة (غضب الليل).",
       "background_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=AgACAgQAAxkBAANFaZHA4-vhMJg5zdoRLDY7eIYd6i8AAgYNaxuLqJFQ-jgwfSr6JgsBAAMCAAN5AAM6BA",
-      "video_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=BAACAgQAAxkBAANQaZHbzhg2_VHPsSw6wdpwCdLoL4IAAlgbAALIxGBQ2Xn2tpvgXMM6BA"
+      "video_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=BAACAgQAAxkBAANQaZHbzhg2_VHPsSw6wdpwCdLoL4IAAlgbAALIxGBQ2Xn2tpvgXMM6BA",
+      "highest_rank_logo_url": "رابط_لوغو_أعلى_مكان",
+      "rating_section": {
+        "app_users_rating": 9.0,
+        "highest_historical_rating": 9.8
+      },
+      "cast": [
+        {
+          "original_name": "Jay Baruchel",
+          "photo_url": "رابط_صورة_الممثل"
+        }
+      ],
+      "special_items": [
+        {
+          "item_name": "غضب الليل (أبو سن)",
+          "main_photo_url": "رابط_صورة_التنين_تيكي",
+          "sub_photo_url": "رابط_صورة_الميراكلس_الرمز"
+        }
+      ]
     }
   },
   {
@@ -28,9 +46,27 @@
       "poster_url": "https://my-video-khayel.ayssersalhi.wokers.dev/?id=AgACAgQAAxkBAANjaZMGd37mxMIMWhEVCMC4Da-05YUAAtkNaxv9_ZhQlnvjE9emwZUBAAMCAAN5AAM6BA"
     },
     "details_scene": {
-      "description": "وصف الجزء الثاني هنا...",
+      "description": "بعد خمس سنوات من السلام، يواجه هيكاب وتنينه تحدياً جديداً يهدد قرية بيرك.",
       "background_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=AgACAgQAAxkBAANFaZHA4-vhMJg5zdoRLDY7eIYd6i8AAgYNaxuLqJFQ-jgwfSr6JgsBAAMCAAN5AAM6BA",
-      "video_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=BAACAgQAAxkBAANQaZHbzhg2_VHPsSw6wdpwCdLoL4IAAlgbAALIxGBQ2Xn2tpvgXMM6BA"
+      "video_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=BAACAgQAAxkBAANQaZHbzhg2_VHPsSw6wdpwCdLoL4IAAlgbAALIxGBQ2Xn2tpvgXMM6BA",
+      "highest_rank_logo_url": "رابط_لوغو_الجزء_الثاني",
+      "rating_section": {
+        "app_users_rating": 8.2,
+        "highest_historical_rating": 9.0
+      },
+      "cast": [
+        {
+          "original_name": "Cate Blanchett",
+          "photo_url": "رابط_صورة_الممثلة"
+        }
+      ],
+      "special_items": [
+        {
+          "item_name": "التنين الجليدي",
+          "main_photo_url": "رابط_صورة_التنين",
+          "sub_photo_url": "رابط_صورة_الرمز"
+        }
+      ]
     }
   },
   {
@@ -45,9 +81,27 @@
       "poster_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=AgACAgQAAxkBAANjaZMGd37mxMIMWhEVCMC4Da-05YUAAtkNaxv9_ZhQlnvjE9emwZUBAAMCAAN5AAM6BA"
     },
     "details_scene": {
-      "description": "وصف الجزء الثالث هنا...",
+      "description": "البحث عن العالم الخفي حيث تعيش التنانين بسلام.",
       "background_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=AgACAgQAAxkBAANFaZHA4-vhMJg5zdoRLDY7eIYd6i8AAgYNaxuLqJFQ-jgwfSr6JgsBAAMCAAN5AAM6BA",
-      "video_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=BAACAgQAAxkBAANoaZsCzaOUFziYhb-iITRTy7ZXDGAAAiQeAALn9dlQlTyBa93l_h46BA"
+      "video_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=BAACAgQAAxkBAANoaZsCzaOUFziYhb-iITRTy7ZXDGAAAiQeAALn9dlQlTyBa93l_h46BA",
+      "highest_rank_logo_url": "رابط_لوغو_الجزء_الثالث",
+      "rating_section": {
+        "app_users_rating": 8.5,
+        "highest_historical_rating": 8.8
+      },
+      "cast": [
+        {
+          "original_name": "America Ferrera",
+          "photo_url": "رابط_صورة_الممثلة"
+        }
+      ],
+      "special_items": [
+        {
+          "item_name": "غضب النهار",
+          "main_photo_url": "رابط_صورة_التنين",
+          "sub_photo_url": "رابط_صورة_الرمز"
+        }
+      ]
     }
   }
 ]
