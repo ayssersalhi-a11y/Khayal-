@@ -14,7 +14,7 @@
       "description": "تبدأ القصة مع الشاب (هيكاب) الذي يطمح لقتال التنانين، لكنه يصادق تنيناً من فصيلة (غضب الليل).",
       "background_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=AgACAgQAAxkBAANFaZHA4-vhMJg5zdoRLDY7eIYd6i8AAgYNaxuLqJFQ-jgwfSr6JgsBAAMCAAN5AAM6BA",
       "video_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=BAACAgQAAxkBAANQaZHbzhg2_VHPsSw6wdpwCdLoL4IAAlgbAALIxGBQ2Xn2tpvgXMM6BA",
-      "highest_rank_logo_url": "رابط_لوغو_أعلى_مكان",
+      "highest_rank_logo_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=AgACAgQAAxkBAANwaaKDNbXzPLFWfCauTj3zHXvXpIgAAjYNaxtyshlRamenao6kIJABAAMCAAN5AAM6BA",
       "rating_section": {
         "app_users_rating": 9.0,
         "highest_historical_rating": 9.8
@@ -22,14 +22,14 @@
       "cast": [
         {
           "original_name": "Jay Baruchel",
-          "photo_url": "رابط_صورة_الممثل"
+          "photo_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=AgACAgQAAxkBAANwaaKDNbXzPLFWfCauTj3zHXvXpIgAAjYNaxtyshlRamenao6kIJABAAMCAAN5AAM6BA"
         }
       ],
       "special_items": [
         {
           "item_name": "غضب الليل (أبو سن)",
-          "main_photo_url": "رابط_صورة_التنين_تيكي",
-          "sub_photo_url": "رابط_صورة_الميراكلس_الرمز"
+          "main_photo_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=AgACAgQAAxkBAANuaaKCrxrPE8oESNqTafv7bRuB_D8AAlAOaxsZfBFRs9I_VXGcneUBAAMCAAN5AAM6BA",
+          "sub_photo_url": "https://my-video-khayel.ayssersalhi.workers.dev/?id=AgACAgQAAxkBAANsaaKCdzUfV70OW15izJsq_y-gMOgAAk4OaxsZfBFRPLX_OeT4XdoBAAMCAAN5AAM6BA"
         }
       ]
     }
